@@ -74,11 +74,11 @@ El script clasifica los hallazgos en tres niveles de severidad:
 
 ## 🖼️ Ejemplos de Funcionamiento
 
-![[imagen1.png]]
+![imagen1.png](https://github.com/DontVengeance/Linux_Sec_Analyzer/blob/main/imagen1.png)
 
 **Sistema Seguro (Ejemplo Básico)**
 
-![[imagen2.png]]
+![imagen2.png](https://github.com/DontVengeance/Linux_Sec_Analyzer/blob/main/imagen2.png)
 
 **Vulnerabilidad Detectada (Ejemplo)**
 
